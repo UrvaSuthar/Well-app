@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "well_clone",
-    "slug": "snack-e7b9c871-dab2-4dbb-b712-442e7eba8515",
+    "name": "wellApp",
+    "slug": "wellapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a456b53a-52f8-459c-a492-078699ab82c4"
+      }
+    },
+    "owner": "urva"
   }
 }

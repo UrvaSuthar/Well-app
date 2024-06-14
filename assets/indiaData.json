@@ -1,0 +1,53 @@
+{
+  "states": [
+    { "label": "Andhra Pradesh", "value": "andhra_pradesh" },
+    { "label": "Arunachal Pradesh", "value": "arunachal_pradesh" }
+  ],
+  "districts": {
+    "andhra_pradesh": [
+      { "label": "Anantapur", "value": "anantapur" },
+      { "label": "Chittoor", "value": "chittoor" }
+    ],
+    "arunachal_pradesh": [
+      { "label": "Tawang", "value": "tawang" },
+      { "label": "West Kameng", "value": "west_kameng" }
+    ]
+  },
+  "tehsils": {
+    "anantapur": [
+      { "label": "Anantapur Tehsil", "value": "anantapur_tehsil" },
+      { "label": "Gooty Tehsil", "value": "gooty_tehsil" }
+    ],
+    "chittoor": [
+      { "label": "Chittoor Tehsil", "value": "chittoor_tehsil" },
+      { "label": "Madanapalle Tehsil", "value": "madanapalle_tehsil" }
+    ]
+  },
+  "languages": [
+    { "label": "Hindi", "value": "hindi" },
+    { "label": "Bengali", "value": "bengali" },
+    { "label": "Telugu", "value": "telugu" },
+    { "label": "Marathi", "value": "marathi" },
+    { "label": "Tamil", "value": "tamil" },
+    { "label": "Urdu", "value": "urdu" },
+    { "label": "Gujarati", "value": "gujarati" },
+    { "label": "Malayalam", "value": "malayalam" },
+    { "label": "Kannada", "value": "kannada" },
+    { "label": "Odia", "value": "odia" },
+    { "label": "Punjabi", "value": "punjabi" },
+    { "label": "Assamese", "value": "assamese" },
+    { "label": "Maithili", "value": "maithili" },
+    { "label": "Santali", "value": "santali" },
+    { "label": "Kashmiri", "value": "kashmiri" },
+    { "label": "Nepali", "value": "nepali" },
+    { "label": "Konkani", "value": "konkani" },
+    { "label": "Sindhi", "value": "sindhi" },
+    { "label": "Dogri", "value": "dogri" },
+    { "label": "Meitei", "value": "meitei" },
+    { "label": "Bodo", "value": "bodo" },
+    { "label": "Santhali", "value": "santhali" },
+    { "label": "Khasi", "value": "khasi" },
+    { "label": "Garo", "value": "garo" },
+    { "label": "Mundari", "value": "mundari" }
+  ]
+}
